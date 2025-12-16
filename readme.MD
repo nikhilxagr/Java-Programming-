@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Java Programming Journey
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Java%20Programming%20Journey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="100" height="100"/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-*A well-documented repository tracking my complete Java programming journey*
+_A well-documented repository tracking my complete Java programming journey_
 
 </div>
 
@@ -35,6 +35,7 @@
 This repository contains my complete Java learning journey, covering all fundamental and advanced concepts. Each topic includes practical code examples, detailed comments, and hands-on practice problems.
 
 **What's Inside:**
+
 - ✨ Clean and readable code
 - 📝 Comprehensive documentation
 - 💡 Practical examples
@@ -72,6 +73,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **📌 Basic Syntax**
+
 - Variables & Constants
 - Data Types (int, float, double, char, boolean)
 - Operators (Arithmetic, Relational, Logical)
@@ -82,6 +84,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **🔄 Control Statements**
+
 - if-else Statements
 - switch-case
 - for Loop
@@ -100,6 +103,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **🏗️ Core Concepts**
+
 - Classes & Objects
 - Constructors
 - Methods
@@ -110,6 +114,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **🎯 OOP Principles**
+
 - **Encapsulation** - Data hiding
 - **Inheritance** - Code reusability
 - **Polymorphism** - Method overloading/overriding
@@ -126,6 +131,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **⚠️ Exception Handling**
+
 - try-catch-finally
 - throw & throws
 - Custom Exceptions
@@ -135,6 +141,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **📂 File Handling**
+
 - File Reading
 - File Writing
 - BufferedReader & BufferedWriter
@@ -146,6 +153,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **🗃️ Collections Framework**
+
 - ArrayList
 - LinkedList
 - HashMap
@@ -155,6 +163,7 @@ This repository contains my complete Java learning journey, covering all fundame
 <td width="50%">
 
 **🧵 Multithreading**
+
 - Thread Creation
 - Thread Lifecycle
 - Synchronization
@@ -172,7 +181,7 @@ This repository contains my complete Java learning journey, covering all fundame
 Java-Programming-/
 │
 ├── 📂 01-Basics/
-│   ├── Variables. java
+│   ├── Variables.java
 │   ├── DataTypes.java
 │   ├── Operators.java
 │   └── ControlFlow.java
@@ -180,7 +189,7 @@ Java-Programming-/
 ├── 📂 02-OOP/
 │   ├── Classes.java
 │   ├── Inheritance.java
-│   ├── Polymorphism. java
+│   ├── Polymorphism.java
 │   └── Abstraction.java
 │
 ├── 📂 03-Advanced/
@@ -201,14 +210,14 @@ Java-Programming-/
 
 <div align="center">
 
-| Topic | Status | Completion |
-|: ------|:------:|: ----------:|
-| Java Basics | ✅ | ![](https://geps.dev/progress/100) |
-| OOP Concepts | 🔄 | ![](https://geps.dev/progress/60) |
-| Exception Handling | 🔄 | ![](https://geps.dev/progress/40) |
-| Collections | ⏳ | ![](https://geps.dev/progress/20) |
-| File Handling | ⏳ | ![](https://geps.dev/progress/10) |
-| Multithreading | ⏳ | ![](https://geps.dev/progress/0) |
+| Topic              | Status |             Completion             |
+| :----------------- | :----: | :--------------------------------: |
+| Java Basics        |   ✅   | ![](https://geps.dev/progress/100) |
+| OOP Concepts       |   🔄   | ![](https://geps.dev/progress/60)  |
+| Exception Handling |   🔄   | ![](https://geps.dev/progress/40)  |
+| Collections        |   ⏳   | ![](https://geps.dev/progress/20)  |
+| File Handling      |   ⏳   | ![](https://geps.dev/progress/10)  |
+| Multithreading     |   ⏳   |  ![](https://geps.dev/progress/0)  |
 
 **Legend:** ✅ Completed | 🔄 In Progress | ⏳ Upcoming
 
@@ -219,15 +228,18 @@ Java-Programming-/
 ## 📖 Resources
 
 ### **📚 Documentation**
+
 - [Official Java Documentation](https://docs.oracle.com/en/java/)
 - [Java Tutorial - W3Schools](https://www.w3schools.com/java/)
 - [GeeksforGeeks Java](https://www.geeksforgeeks.org/java/)
 
 ### **🎥 Video Tutorials**
+
 - YouTube Java Playlists
 - Online Course Platforms (Udemy, Coursera)
 
 ### **📝 Practice Platforms**
+
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/domains/java)
 - [CodeChef](https://www.codechef.com/)
@@ -237,6 +249,7 @@ Java-Programming-/
 ## 🚀 Getting Started
 
 ### **Prerequisites**
+
 - Java Development Kit (JDK) 8 or higher
 - Any IDE (IntelliJ IDEA, Eclipse, VS Code)
 
@@ -285,10 +298,12 @@ java FileName
 
 ---
 
-### ⭐ If you find this helpful, consider starring the repository! 
+### ⭐ If you find this helpful, consider starring the repository!
 
 **Made with ❤️ and ☕ by Nikhil**
 
-*Happy Learning!  Keep Coding!* 🚀
+_Happy Learning! Keep Coding!_ 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
